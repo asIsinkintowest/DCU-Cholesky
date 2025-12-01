@@ -1,3 +1,3 @@
 #!bin/bash
 
-/public/home/ruinique/czm/DCU_Cholesky/dcu
+/public/home/ruinique/czm/DCU-Cholesky/dcu

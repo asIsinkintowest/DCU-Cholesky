@@ -73,8 +73,8 @@ void save_csv(const string filename, float *P, int width)
 int main(void)
 {
     // 读取输入矩阵
-    float *M_h = read_csv("data/matrix1.csv");
-    float *N_h = read_csv("data/matrix2.csv");
+    float *M_h = read_csv("./data/matrix1.csv");
+    float *N_h = read_csv("./data/matrix2.csv");
 
     // 分配设备端内存
     float *M_d, *N_d, *P_d;
